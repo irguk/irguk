@@ -1,9 +1,10 @@
 ## Hi there 👋
 My name is Iryna. I am currently retraining as an IT specialist for application development in Leipzig and I am looking for an internship position, ideally in Leipzig or nearby. I am motivated, eager to learn, and enjoy working in a team.
 My technical skills include 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
-          
+           
             
+            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" style="font-size: 48px;/>
+          
             <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
           
           , CSS, PHP, C#, Python, and MySQL.
