@@ -1,13 +1,13 @@
 ## Hi there 👋
 My name is Iryna. I am currently retraining as an IT specialist for application development in Leipzig and I am looking for an internship position, ideally in Leipzig or nearby. I am motivated, eager to learn, and enjoy working in a team.
-My technical skills include 
-           
-            
-            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" style="font-size: 48px;/>
-          
-            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-          
-          , CSS, PHP, C#, Python, and MySQL.
+My technical skills include:
+
+<i class="devicon-html5-plain-wordmark colored"></i> HTML
+<i class="devicon-css3-plain-wordmark colored"></i> CSS
+<i class="devicon-php-plain colored"></i> PHP
+<i class="devicon-csharp-plain colored"></i> C#
+<i class="devicon-python-plain colored"></i> Python
+<i class="devicon-mysql-plain-wordmark colored"></i> MySQL
  I would like to apply and deepen my knowledge in practice and gain new experience in the IT field. I look forward to exciting tasks and new challenges.
 <!--
 **irguk/irguk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
