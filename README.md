@@ -3,7 +3,9 @@ My name is Iryna. I am currently retraining as an IT specialist for application 
 My technical skills include 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
           
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+            
+            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
           , CSS, PHP, C#, Python, and MySQL.
  I would like to apply and deepen my knowledge in practice and gain new experience in the IT field. I look forward to exciting tasks and new challenges.
 <!--
