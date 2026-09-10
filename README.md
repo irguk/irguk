@@ -56,7 +56,6 @@ Ich bin eine zielorientierte **Fachinformatikerin für Anwendungsentwicklung** m
 ## 📫 Kontakt
 * **Standort:** Leipzig, Deutschland
 * **LinkedIn:** [linkedin.com/in/iryna-gukova](https://www.linkedin.com/in/iryna-gukova/)
-* **GitHub:** [github.com/igukova](https://github.com/igukova)
-* **E-Mail:** igukova@gmail.com
+
 
 ⚡ *„Qualität ist kein Zufall; sie ist immer das Ergebnis angestrengten Denkens.“*
